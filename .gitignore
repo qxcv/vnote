@@ -11,3 +11,7 @@ GRTAGS
 GTAGS
 aqtinstall.log
 tags
+.wget-hsts
+build
+AppDir
+*.swp
